@@ -6,6 +6,7 @@
   <name>dockerjenkinsintegrationsample</name>
   <description>Docker Jenkins Integration Sample</description>
   
+  
   <build>
   	<finalName>docker-jenkins-integration-sample</finalName>
   </build>

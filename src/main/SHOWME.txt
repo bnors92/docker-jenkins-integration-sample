@@ -2,7 +2,7 @@ Add a line here
 Add another line
 
 add line number 3
-add line number 4 afte changing permission on C:....\AppData\Jenkins
+add line number 4 after changing permission on C:....\AppData\Jenkins
 
 maybe tomorrow
 

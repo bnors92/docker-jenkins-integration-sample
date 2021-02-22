@@ -7,3 +7,6 @@ add line number 4 afte changing permission on C:....\AppData\Jenkins
 maybe tomorrow
 
 Perhaps Today
+
+Everything works.  Time to document, then add Docker deployment.  Then deploy to AWS.  
+

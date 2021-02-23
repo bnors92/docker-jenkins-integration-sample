@@ -8,5 +8,5 @@ maybe tomorrow
 
 Perhaps Today
 
-Everything works.  Time to document, then add Docker deployment.  Then deploy to AWS.  
+Everything works.  
 

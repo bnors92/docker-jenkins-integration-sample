@@ -10,3 +10,7 @@ Perhaps Today
 
 Everything works.  
 
+Shiver me timbers - it still works!
+
+On to documentation, then Docker then AWS!  Land ho!
+

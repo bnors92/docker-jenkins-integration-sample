@@ -14,3 +14,5 @@ Shiver me timbers - it still works!
 
 On to documentation, then Docker then AWS!  Land ho!
 
+Had a bit of a glitch with auto plug-in installation but was able to work around it.  Forward!
+

@@ -7,6 +7,7 @@
   <description>Docker Jenkins Integration Sample</description>
   
   
+  <!-- Add this specific version for the maven compiler plug-in to avoid problems with compile version errors -->
   <build>
   	<plugins>
   		<plugin>
